@@ -23,12 +23,12 @@ Sou estudante de **Desenvolvimento de Sistemas** no **Senac** e apaixonado por t
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vitorfran&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitorfran&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_GITHUB_USERNAME&layout=compact&theme=radical" alt="Linguagens Mais Usadas" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorfran&layout=compact&theme=radical" alt="Linguagens Mais Usadas" width="48%"/>
 </p>
 
 ## 📫 Como me encontrar

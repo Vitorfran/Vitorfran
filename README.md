@@ -2,7 +2,7 @@
 
 **"Passionate about technology and programming, always eager to learn and grow."**
 
-## 🚀 Sobre mim  
+##  Sobre mim  
 Sou estudante de **Desenvolvimento de Sistemas** no **Senac** e apaixonado por tecnologia e programação. Tenho facilidade com **banco de dados relacionais**, **Python**, **Java** e **metodologias ágeis**. Além disso, possuo conhecimento básico em **HTML, CSS, JavaScript** e **Kotlin**.
 
 ## 🛠️ Tecnologias e Ferramentas  
@@ -31,7 +31,7 @@ Sou estudante de **Desenvolvimento de Sistemas** no **Senac** e apaixonado por t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorfran&layout=compact&theme=radical" alt="Linguagens Mais Usadas" width="48%"/>
 </p>  
 
-## 👯️‍💻 Como me encontrar  
+##  Como me encontrar?  
 📧 **E-mail:** vitorpoizon@gmail.com  
 🌎 **LinkedIn:** [Vitor Francisco](https://www.linkedin.com/in/vitor-francisco-66894a246/)  
 

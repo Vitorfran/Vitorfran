@@ -3,7 +3,7 @@
 **"Passionate about technology and programming, always eager to learn and grow."**
 
 ##  Sobre mim  
-Sou estudante de **Desenvolvimento de Sistemas** no **Senac** e apaixonado por tecnologia e programação. Tenho facilidade com **banco de dados relacionais**, **Python**, **Java** e **metodologias ágeis**. Além disso, possuo conhecimento básico em **HTML, CSS, JavaScript** e **Kotlin**.
+**Desenvolvimento de Sistemas** no **Senac** e apaixonado por tecnologia e programação. Tenho facilidade com **banco de dados relacionais**, **Python**, **Java** e **metodologias ágeis**. Além disso, possuo conhecimento básico em  **Kotlin**.
 
 ## 🛠️ Tecnologias e Ferramentas  
 ### Linguagens e Banco de Dados  

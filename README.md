@@ -70,4 +70,18 @@ Tenho experiência com desenvolvimento web, bancos de dados relacionais e constr
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitorfran&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vitorfran&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vitorfran&theme=github_dark" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vitorfran&theme=radical&row=1&column=6" />
+</p>
+
 ⭐ Sempre aberto para aprender, colaborar em projetos e compartilhar conhecimento.

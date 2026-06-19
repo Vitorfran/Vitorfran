@@ -1,38 +1,73 @@
-# Hello World! Eu sou Vitor Francisco 👋
+# Hello World! 👋 Eu sou Vitor Francisco
 
-**"Passionate about technology and programming, always eager to learn and grow."**
+**"Transformando ideias em soluções através da tecnologia."**
 
-##  Sobre mim  
-**Desenvolvimento de Sistemas** no **Senac** e apaixonado por tecnologia e programação. Tenho facilidade com **banco de dados relacionais**, **Python**, **Java** e **metodologias ágeis**. Além disso, possuo conhecimento básico em  **Kotlin**.
+## 🚀 Sobre mim
 
-## 🛠️ Tecnologias e Ferramentas  
-### Linguagens e Banco de Dados  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-</p>  
+Sou profissional de Tecnologia da Informação e estudante de Análise e Desenvolvimento de Sistemas. Atuo com desenvolvimento de sistemas e estou constantemente aprimorando meus conhecimentos em programação, banco de dados e análise de dados.
 
-### Ferramentas e Metodologias  
-- 📌 **Metodologias Ágeis** (Scrum, Kanban)  
-- 🛠️ **Versionamento de Código** (Git, GitHub)  
+Tenho experiência com desenvolvimento web, bancos de dados relacionais e construção de aplicações, além de interesse em Data Analytics, Inteligência Artificial e desenvolvimento de produtos digitais.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vitorfran&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vitorfran&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>  
+## 💻 Tecnologias e Ferramentas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorfran&layout=compact&theme=radical" alt="Linguagens Mais Usadas" width="48%"/>
-</p>  
+### Linguagens de Programação
 
-##  Como me encontrar?  
-📧 **E-mail:** vitorpoizon@gmail.com  
-🌎 **LinkedIn:** [Vitor Francisco](https://www.linkedin.com/in/vitor-francisco-66894a246/)  
+* Python
+* Java
+* JavaScript
+* PHP
+* Kotlin
 
-📌 Sempre aberto para trocar conhecimento e colaborar em projetos! 🚀
+### Banco de Dados
+
+* MySQL
+* PostgreSQL
+* SQL
+
+### Desenvolvimento Web
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+
+### Ferramentas
+
+* Git
+* GitHub
+* Firebase
+* Android Studio
+
+### Metodologias
+
+* Scrum
+* Kanban
+* Desenvolvimento Ágil
+
+## 📈 Áreas de Interesse
+
+* Desenvolvimento de Sistemas
+* Análise de Dados
+* Inteligência Artificial
+* Banco de Dados
+* Desenvolvimento Mobile
+* Cloud Computing
+
+## 🚀 Projetos em Destaque
+
+* 📱 VITAAP — Aplicativo de ajuda e emergência com compartilhamento de localização.
+* 💈 Sistema Web para Barbearia — Agendamento e gerenciamento de clientes e barbeiros.
+* 🛒 Soluções para E-commerce com recursos de IA.
+* 📊 Projetos de Análise de Dados utilizando Python e SQL.
+
+## 📫 Como me encontrar
+
+📧 E-mail: [vitorpoizon@gmail.com](mailto:vitorpoizon@gmail.com)
+
+💼 LinkedIn: [www.linkedin.com/in/vitor-francisco-66894a246](http://www.linkedin.com/in/vitor-francisco-66894a246)
+
+🐙 GitHub: github.com/Vitorfran
+
+---
+
+⭐ Sempre aberto para aprender, colaborar em projetos e compartilhar conhecimento.

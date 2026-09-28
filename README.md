@@ -1,14 +1,14 @@
-# Hello World! 👋 Eu sou Vitor Francisco
+# Hello World!  Eu sou Vitor Francisco
 
 **"Transformando ideias em soluções através da tecnologia."**
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Sou profissional de Tecnologia da Informação e estudante de Análise e Desenvolvimento de Sistemas. Atuo com desenvolvimento de sistemas e estou constantemente aprimorando meus conhecimentos em programação, banco de dados e análise de dados.
 
 Tenho experiência com desenvolvimento web, bancos de dados relacionais e construção de aplicações, além de interesse em Data Analytics, Inteligência Artificial e desenvolvimento de produtos digitais.
 
-## 💻 Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 ### Linguagens de Programação
 
@@ -53,7 +53,7 @@ Tenho experiência com desenvolvimento web, bancos de dados relacionais e constr
 * Desenvolvimento Mobile
 * Cloud Computing
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
 * 📱 VITAAP — Aplicativo de ajuda e emergência com compartilhamento de localização.
 * 💈 Sistema Web para Barbearia — Agendamento e gerenciamento de clientes e barbeiros.

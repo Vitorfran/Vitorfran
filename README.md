@@ -1,62 +1,61 @@
-Hey, I’m Vitor Francisco.
+<div align="center">
 
-Software Development · IT · Systems Integration
+# Hey, I'm Vitor Francisco.
 
-I like building things, solving problems, and understanding how technology works beyond the code.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3200&pause=1000&color=6C8EBB&center=true&vCenter=true&width=540&lines=Building+useful+software.;Connecting+systems+through+APIs.;Automating+the+boring+stuff.)](https://git.io/typing-svg)
 
-I’m an IT professional and Systems Analysis and Development student from Brazil.
+**IT Professional · Software Development · Systems Integration**
 
-I enjoy working on projects that solve actual problems, whether it’s building a web application, connecting different systems through APIs, automating repetitive tasks, or figuring out why something suddenly stopped working.
+[LinkedIn](https://www.linkedin.com/in/vitor-francisco-66894a246) · [GitHub](https://github.com/Vitorfran) · [Email](mailto:vitorpoizon@gmail.com)
 
-My interests go beyond writing code. I like understanding the bigger picture: how applications communicate, how data moves between systems, and how small improvements can make a real difference.
+</div>
 
-Still learning, still experimenting, and always looking for something new to build.
+## A little about me
 
-⸻
+I'm an IT professional from Brazil, currently studying **Systems Analysis and Development**.
 
-What I work with
+I like building things that solve real problems. Sometimes that's a web application; other times it's connecting systems through APIs, automating a repetitive task, or tracking down a bug that refuses to make sense.
 
-Languages
-Python JavaScript Java PHP Kotlin
+I'm interested in the whole process behind a working product — from the database and backend to integrations, deployment, and the experience of the person using it.
 
-Web & Backend
-HTML5 CSS3 Bootstrap REST APIs
+Right now, I'm exploring more of **backend development, Docker, cloud computing, data analytics, and practical uses of AI**.
 
-Databases
-MySQL PostgreSQL SQL
+## Technologies
 
-Tools & Development
-Docker Git GitHub Firebase Android Studio
+<div align="center">
 
-Workflow
-Scrum Kanban Agile
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,php,kotlin,html,css,bootstrap,mysql,postgres,docker,git,github,firebase,androidstudio&perline=8)](https://skillicons.dev)
 
-Things I’ve built & explored
+</div>
 
-VITAAP — Emergency Assistance App
-A mobile project focused on emergency assistance, communication, and location sharing.
+**Languages:** Python, Java, JavaScript, PHP, Kotlin  
+**Web:** HTML, CSS, Bootstrap, REST APIs  
+**Databases:** MySQL, PostgreSQL, SQL  
+**Tools:** Docker, Git, GitHub, Firebase, Android Studio  
+**Workflow:** Scrum, Kanban, Agile development
 
-Barbershop Management System
-A web application for handling appointments, customers, and daily operations.
+## Projects
 
-E-commerce & Automation
-Exploring system integrations, API-based workflows, process automation, and AI-powered features for online businesses.
+**VITAAP — Emergency Assistance App**  
+A mobile app concept focused on emergency assistance, communication, and location sharing.
 
-Data Analysis
-Using Python and SQL to explore datasets, organize information, and find meaningful insights.
+**Barbershop Management System**  
+A web application for organizing appointments, customers, and daily operations.
 
-⸻
+**E-commerce & Automation**  
+Projects involving online stores, system integrations, API workflows, and automation.
 
-What keeps me curious
+**Data Analysis with Python & SQL**  
+Exploring data processing, querying, and analysis to turn raw information into useful insights.
 
-Right now, I’m particularly interested in backend development, system architecture, cloud technologies, automation, and practical applications of AI.
+## GitHub activity
 
-I believe good software isn’t necessarily the most complicated. It’s the software that solves the problem, works reliably, and makes someone’s life easier.
+<div align="center">
 
-Find me around
+![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitorfran&theme=github_dark)
 
-GitHub · LinkedIn · Email
+</div>
 
-⸻
+---
 
-Less repetitive work. More useful software.
+> Good software doesn't have to be complicated. It has to solve the problem.

@@ -1,87 +1,58 @@
-# Hello World!  Eu sou Vitor Francisco
+#Hi, I’m Vitor Francisco
 
-**"Transformando ideias em soluções através da tecnologia."**
+IT Professional | Software Development | Systems Analysis and Development Student
 
-##  Sobre mim
+I’m an IT professional and Software Development student with an interest in building practical solutions to real-world problems.
 
-Sou profissional de Tecnologia da Informação e estudante de Análise e Desenvolvimento de Sistemas. Atuo com desenvolvimento de sistemas e estou constantemente aprimorando meus conhecimentos em programação, banco de dados e análise de dados.
+My experience includes web development, relational databases, and application development. I enjoy understanding how systems work, improving existing processes, and exploring ways to make technology more efficient.
 
-Tenho experiência com desenvolvimento web, bancos de dados relacionais e construção de aplicações, além de interesse em Data Analytics, Inteligência Artificial e desenvolvimento de produtos digitais.
+I’m currently expanding my knowledge in software engineering, API integrations, data analytics, and artificial intelligence.
 
-##  Tecnologias e Ferramentas
+Technical Skills
 
-### Linguagens de Programação
+Programming Languages
+Python, Java, JavaScript, PHP, Kotlin
 
-* Python
-* Java
-* JavaScript
-* PHP
-* Kotlin
+Web Development
+HTML5, CSS3, JavaScript, Bootstrap
 
-### Banco de Dados
+Databases
+MySQL, PostgreSQL, SQL
 
-* MySQL
-* PostgreSQL
-* SQL
+Tools & Platforms
+Git, GitHub, Docker, Firebase, Android Studio
 
-### Desenvolvimento Web
+Development Practices
+Agile Development, Scrum, Kanban
 
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
+Projects
 
-### Ferramentas
+VITAAP — Emergency Assistance App
+A mobile application designed to provide assistance in emergency situations, including location sharing and communication features.
 
-* Git
-* GitHub
-* Firebase
-* Android Studio
+Barbershop Management System
+A web application for managing appointments, customers, and barbers, designed to simplify daily business operations.
 
-### Metodologias
+E-commerce Solutions
+Projects exploring e-commerce functionality, system integrations, process automation, and AI-assisted features.
 
-* Scrum
-* Kanban
-* Desenvolvimento Ágil
+Data Analysis Projects
+Working with Python and SQL to organize, process, and analyze data.
 
-## 📈 Áreas de Interesse
+Areas of Interest
 
-* Desenvolvimento de Sistemas
-* Análise de Dados
-* Inteligência Artificial
-* Banco de Dados
-* Desenvolvimento Mobile
+* Backend Development & APIs
+* Software Engineering
+* System Integration & Automation
+* Artificial Intelligence
+* Data Analytics
+* Mobile Development
 * Cloud Computing
 
-##  Projetos em Destaque
+GitHub Activity
 
-* 📱 VITAAP — Aplicativo de ajuda e emergência com compartilhamento de localização.
-* 💈 Sistema Web para Barbearia — Agendamento e gerenciamento de clientes e barbeiros.
-* 🛒 Soluções para E-commerce com recursos de IA.
-* 📊 Projetos de Análise de Dados utilizando Python e SQL.
+Contact
 
-## 📫 Como me encontrar
-
-📧 E-mail: [vitorpoizon@gmail.com](mailto:vitorpoizon@gmail.com)
-
-💼 LinkedIn: [www.linkedin.com/in/vitor-francisco-66894a246](http://www.linkedin.com/in/vitor-francisco-66894a246)
-
-🐙 GitHub: github.com/Vitorfran
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitorfran&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vitorfran&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vitorfran&theme=github_dark" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vitorfran&theme=radical&row=1&column=6" />
-</p>
-
-⭐ Sempre aberto para aprender, colaborar em projetos e compartilhar conhecimento.
+Email: vitorpoizon@gmail.com
+LinkedIn: Vitor Francisco
+GitHub: github.com/Vitorfran

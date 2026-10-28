@@ -1,58 +1,62 @@
-#Hi, I’m Vitor Francisco
+Hey, I’m Vitor Francisco.
 
-IT Professional | Software Development | Systems Analysis and Development Student
+Software Development · IT · Systems Integration
 
-I’m an IT professional and Software Development student with an interest in building practical solutions to real-world problems.
+I like building things, solving problems, and understanding how technology works beyond the code.
 
-My experience includes web development, relational databases, and application development. I enjoy understanding how systems work, improving existing processes, and exploring ways to make technology more efficient.
+I’m an IT professional and Systems Analysis and Development student from Brazil.
 
-I’m currently expanding my knowledge in software engineering, API integrations, data analytics, and artificial intelligence.
+I enjoy working on projects that solve actual problems, whether it’s building a web application, connecting different systems through APIs, automating repetitive tasks, or figuring out why something suddenly stopped working.
 
-Technical Skills
+My interests go beyond writing code. I like understanding the bigger picture: how applications communicate, how data moves between systems, and how small improvements can make a real difference.
 
-Programming Languages
-Python, Java, JavaScript, PHP, Kotlin
+Still learning, still experimenting, and always looking for something new to build.
 
-Web Development
-HTML5, CSS3, JavaScript, Bootstrap
+⸻
+
+What I work with
+
+Languages
+Python JavaScript Java PHP Kotlin
+
+Web & Backend
+HTML5 CSS3 Bootstrap REST APIs
 
 Databases
-MySQL, PostgreSQL, SQL
+MySQL PostgreSQL SQL
 
-Tools & Platforms
-Git, GitHub, Docker, Firebase, Android Studio
+Tools & Development
+Docker Git GitHub Firebase Android Studio
 
-Development Practices
-Agile Development, Scrum, Kanban
+Workflow
+Scrum Kanban Agile
 
-Projects
+Things I’ve built & explored
 
 VITAAP — Emergency Assistance App
-A mobile application designed to provide assistance in emergency situations, including location sharing and communication features.
+A mobile project focused on emergency assistance, communication, and location sharing.
 
 Barbershop Management System
-A web application for managing appointments, customers, and barbers, designed to simplify daily business operations.
+A web application for handling appointments, customers, and daily operations.
 
-E-commerce Solutions
-Projects exploring e-commerce functionality, system integrations, process automation, and AI-assisted features.
+E-commerce & Automation
+Exploring system integrations, API-based workflows, process automation, and AI-powered features for online businesses.
 
-Data Analysis Projects
-Working with Python and SQL to organize, process, and analyze data.
+Data Analysis
+Using Python and SQL to explore datasets, organize information, and find meaningful insights.
 
-Areas of Interest
+⸻
 
-* Backend Development & APIs
-* Software Engineering
-* System Integration & Automation
-* Artificial Intelligence
-* Data Analytics
-* Mobile Development
-* Cloud Computing
+What keeps me curious
 
-GitHub Activity
+Right now, I’m particularly interested in backend development, system architecture, cloud technologies, automation, and practical applications of AI.
 
-Contact
+I believe good software isn’t necessarily the most complicated. It’s the software that solves the problem, works reliably, and makes someone’s life easier.
 
-Email: vitorpoizon@gmail.com
-LinkedIn: Vitor Francisco
-GitHub: github.com/Vitorfran
+Find me around
+
+GitHub · LinkedIn · Email
+
+⸻
+
+Less repetitive work. More useful software.
